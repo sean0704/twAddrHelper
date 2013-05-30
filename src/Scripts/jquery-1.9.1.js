@@ -9,8 +9,7 @@
  * Released under the MIT license
  * http://jquery.org/license
  *
- * Date: 2013-2-4
- */
+ * Date: 2013-05-30
 (function( window, undefined ) {
 
 // Can't do this because several apps including ASP.NET trace
